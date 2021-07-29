@@ -54,11 +54,10 @@ function promptUser () {
       name: 'license',
       message: 'Please select which license you would like to use:',
         choices : [
-            "APACHE",
-            "ISC",
-            "GNU GPL 3.0",
+            "Apache",
             "MIT",
-            "None",
+            "ISC",
+            "GNU GPLv3",
         ],
     },
     {
@@ -89,6 +88,7 @@ function generateText(answers) {
   Github profile link: ${answers.github}
   
   ## Description
+  ![License](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
   - Motivation: ${answers.motivation}
   - Why I built this project: ${answers.why}
   - The problem it solves: ${answers.solve}
