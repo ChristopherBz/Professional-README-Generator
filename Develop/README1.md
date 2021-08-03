@@ -8,8 +8,8 @@
   
   ## Description
   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")  
-  - Motivation: To spread the word of free speech in a time not so distant  
-  - Why I built this project: arst  
+  - Motivation: My friends, family and the good of the human race  
+  - Why I built this project: To spread the word of free speech in a time not so distant  
   - The problem it solves: It Solves many problems  1. The art of power  2. the means of strength  3. A ancient ritual  
   
   ## Table of Contents
@@ -31,8 +31,8 @@
   1. Ben Affleck  2. Sharonstone@sharon.com  3. https://github.com/ChristopherBz
   ## License
   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
-  ## Contribution Guidelines
-  undefined
+  ## Contribution
+  Others are free to contribute, simply contact me on github.
   ## Features
   The project has so many features that I can't really discuss all here
   ## Tests
