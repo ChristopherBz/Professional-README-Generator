@@ -12,6 +12,8 @@ That is why I have created this command-line application that dynamically genera
 - [Usage](#usage)
 - [License](#license)
 
+![image](https://user-images.githubusercontent.com/81110745/127946362-c35c66a4-41f8-4342-a66d-25d87b5920c1.png)
+
 ## User Story
 ```
 AS A developer
