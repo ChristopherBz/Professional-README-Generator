@@ -22,7 +22,7 @@ SO THAT I can quickly create a professional README for a new project
 You will need Node.js installed along with the [Inquirer package](https://www.npmjs.com/package/inquirer) to run this inside Visual Studio Code.
 
 ## Usage
-Please see the explainer video located here:
+Please see the explainer video located here: https://github.com/ChristopherBz/Professional-README-Generator/blob/dcd6ebd68c55e1ed5b0466d96bc07ab0caa393b1/Develop/Professional-readme-howtovid.mp4
 
 ## License
   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")  
