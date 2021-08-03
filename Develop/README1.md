@@ -2,9 +2,9 @@
   # arst
  
   ## Creator details
-  Github username: arst
-  Email: arst
-  Github profile link: arst
+  Github username: arst  
+  Email: arst  
+  Github profile link: arst  
   
   ## Description
   ![License](https://img.shields.io/badge/License-Apache-blue.svg "License Badge")
