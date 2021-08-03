@@ -73,7 +73,7 @@ function promptUser () {
     {
         type: 'input',
         name: 'credits',
-        message: 'List your collaborators, or supporting resources used',
+        message: 'List your collaborators, or supporting resources used.',
     },
     {
         type: 'input',
@@ -95,11 +95,6 @@ function promptUser () {
       name: 'github',
       message: 'Enter your GitHub Username',
     },
-    {
-      type: 'input',
-      name: 'linkedin',
-      message: 'Enter your LinkedIn URL.',
-    },
     ]);
 }
 
@@ -108,15 +103,15 @@ function generateText(answers) {
   # ${answers.title}
  
   ## Creator details
-  Github username: ${answers.userName}
-  Email: ${answers.email}
-  Github profile link: ${answers.github}
+  Github username: ${answers.userName}  
+  Email: ${answers.email}  
+  Github profile link: ${answers.github}  
   
   ## Description
-  ![License](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
-  - Motivation: ${answers.motivation}
-  - Why I built this project: ${answers.why}
-  - The problem it solves: ${answers.solve}
+  ![License](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")  
+  - Motivation: ${answers.motivation}  
+  - Why I built this project: ${answers.why}  
+  - The problem it solves: ${answers.solve}  
   
   ## Table of Contents
   
@@ -130,10 +125,8 @@ function generateText(answers) {
   - [Questions](#questions)
   
   ## Installation
-  Here are the steps required to get the development environment running:
   ${answers.installation}
   ## Usage
-  The usage information for this project:
   ${answers.usage}
   ## Credits
   ${answers.credits}
@@ -146,8 +139,8 @@ function generateText(answers) {
   ## Tests
   ${answers.tests}
   ## Questions
-  ${answers.questions}
-  ---
+  For all questions please feel free to reach out to me on Github: ${answers.github} 
+  
  
 `;
 }
